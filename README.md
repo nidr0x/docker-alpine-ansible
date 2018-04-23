@@ -1,4 +1,4 @@
-# ansible-redis-docker
+# docker-alpine-ansible
 
 Just an Alpine Linux image with Ansible installed.
 
